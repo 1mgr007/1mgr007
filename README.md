@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript and Node.js
 - 👯 I’m looking to collaborate on Discord Bot Developer
 - 💬 Ask me about Discord Bot
-- 📫 How to reach me: Panji Kusuma$7473
+- 📫 How to reach me: Panji Kusuma#7473
 <!--
 **1mgr007/1mgr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
