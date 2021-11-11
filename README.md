@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Panji Kusuma.
-- 🔭 I’m currently working on Discord Bot.
+- 🔭 I’m currently working on Discord Bot Developer.
 - 🌱 I’m currently learning JavaScript and Node.js.
 - 👯 I’m looking to collaborate on Discord Bot Developer.
 - 💬 Ask me about Discord Bot and Discord Server Settings.
