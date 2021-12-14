@@ -9,6 +9,10 @@
   - My Discord Account: Panji Kusuma#7473
   - My Discord Server: [Gang Sebelah](https://discord.gg/gangsebelah) - This is a public discord server but you can find me there.
 - ☕ Follow & Support me: https://linktr.ee/1mgr007
+
+[![1mgr007's GitHub stats](https://github-readme-stats.vercel.app/api?username=3chospirits&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3chospirits&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **1mgr007/1mgr007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
