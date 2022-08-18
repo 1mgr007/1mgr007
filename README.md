@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Discord Bot Developer.
 - 💬 Ask me about Discord Bot and Discord Server Settings.
 - 📫 How to reach me: 
-  - My Discord Account: Panji Kusuma#7473
+  - My Discord Account: Panji#7473
   - My Discord Server: [Gang Sebelah](https://discord.gg/gangsebelah) - This is a public discord server but you can find me there.
 - ☕ Follow & Support me: https://linktr.ee/1mgr007
 
