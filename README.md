@@ -2,11 +2,11 @@
 
 - 👋 Hi, I’m Panji Kusuma.
 - 🔭 I’m currently working on Discord Bot Developer.
-- 🌱 I’m currently learning JavaScript and Node.js.
+- 🌱 I’m currently learning JavaScript and Python.
 - 👯 I’m looking to collaborate on Discord Bot Developer.
 - 💬 Ask me about Discord Bot and Discord Server Settings.
 - 📫 How to reach me: 
-  - My Discord Account: [Panji#7473](https://discordapp.com/users/527452562857656352/)
+  - My Discord Account: [1mgr007](https://discordapp.com/users/527452562857656352/)
   - My Discord Server: [Gang Sebelah](https://discord.gg/gangsebelah) - This is a public discord server but you can find me there.
 - ☕ Follow & Support me: https://linktr.ee/1mgr007
 
